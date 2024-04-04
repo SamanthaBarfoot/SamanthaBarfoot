@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+
+I am a third year Bachelor of Information student at the University of Toronto.
 
 <!--
 **SamanthaBarfoot/SamanthaBarfoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
